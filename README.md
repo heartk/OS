@@ -19,3 +19,20 @@ Examples of popular desktop operating systems include Apple OS X,
 Linux and its variants, and Microsoft Windows. So-called mobile operating systems include Android and iOS. 
 Other classes of operating systems, such as real-time (RTOS), also exist.
 ```
+
+### Types of operating systems
+
+##### Single- and multi-tasking
+
+##### Single- and multi-user
+
+##### Distributed
+
+##### Templated
+
+##### Embedded
+
+##### Real-time
+
+##### Library
+
